@@ -7,3 +7,5 @@ Y = np.sin(X)
 plt.plot(X, Y)
 plt.show()
 print('tudo bem')
+dr = 5
+byuz = 778
