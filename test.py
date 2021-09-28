@@ -8,4 +8,5 @@ plt.plot(X, Y)
 plt.show()
 print('tudo bem')
 dr = 5
-byuz = 778
+byuz = 778at = 89
+po = 12
